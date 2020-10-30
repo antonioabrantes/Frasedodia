@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROOT>
+    <row>
+        <field name="autor">Steve Jobs</field>
+        <field name="imagem">steve.jpg</field>
+        <field name="biografia">Co-fundador da Apple Inc. Foi também diretor executivo da empresa de animação por computação gráfica Pixar. Inventor do iMac, iPod, iPhone, iPad</field>
+    </row>
+    <row>
+        <field name="autor">Stephen Covey</field>
+        <field name="imagem">covey.jpg</field>
+        <field name="biografia">Autor do best-seller administrativo: Os Sete Hábitos das Pessoas Altamente Eficazes </field>
+    </row>
+    <row>
+        <field name="autor">Albert Einstein</field>
+        <field name="imagem">einstein.jpg</field>
+        <field name="biografia">Físico teórico alemão radicado nos Estados Unidos conhecido pela Teoria da Relatividade e Prêmio Nobel em 1921</field>
+    </row>
+    <row>
+        <field name="autor">Horst Schulze</field>
+        <field name="imagem">schulze.jpg</field>
+        <field name="biografia">Fundador da rede de Hotéis Ritz-Carlton</field>
+    </row>
+    <row>
+        <field name="autor">Cora Coralina</field>
+        <field name="imagem">cora.jpg</field>
+        <field name="biografia"> Poetisa brasileira considerada uma das principais escritoras brasileiras, ela teve seu primeiro livro publicado em 1965 quando já tinha quase 76 anos de idade</field>
+    </row>
+    <row>
+        <field name="autor">Bill O Brien</field>
+        <field name="imagem">bill.gif</field>
+        <field name="biografia">Diretor da Hanover Insurance Co.</field>
+    </row>
+    <row>
+        <field name="autor">Franklin Roosevelt</field>
+        <field name="imagem">roosevelt.jpg</field>
+        <field name="biografia">Presidente dos Estados Unidos (1933-1945), realizou quatro mandatos e morreu durante o último. Do Partido Democrata, foi o primeiro presidente a conseguir mais de dois mandatos.</field>
+    </row>
+    <row>
+        <field name="autor">Buckminster Fuller</field>
+        <field name="imagem">fuller.jpg</field>
+        <field name="biografia">Designer, arquiteto, inventor e escritor norte-americano</field>
+    </row>
+    <row>
+        <field name="autor">Mário Cortella</field>
+        <field name="imagem">cortella.jpg</field>
+        <field name="biografia">Flósofo, Mestre e Doutor em Educação.  Professor titular da PUC/SP, tendo atuado por 32 anos no Departamento de Teologia e Ciências da Religião</field>
+    </row>
+    <row>
+        <field name="autor">Scott Snair</field>
+        <field name="imagem">scott.gif</field>
+        <field name="biografia">Militar norte-americano formado pela West Point, onde dá aulas para cadetes. Autor de Liderança Motivacional para Iniciantes</field>
+    </row>
+    <row>
+        <field name="autor">Joseph Joubert</field>
+        <field name="imagem">joubert.jpg</field>
+        <field name="biografia">Ensaísta francês(1754-1824) </field>
+    </row>
+    <row>
+        <field name="autor">Voltaire</field>
+        <field name="imagem">voltaire.jpg</field>
+        <field name="biografia">Escritor, ensaísta e filósofo iluminista francês (1694 — 1778)</field>
+    </row>
+    <row>
+        <field name="autor">Friedrich Nietzsche</field>
+        <field name="imagem">nietz.jpg</field>
+        <field name="biografia">Filólogo e influente filósofo alemão do século XIX</field>
+    </row>
+    <row>
+        <field name="autor">Byron</field>
+        <field name="imagem">byron.jpg</field>
+        <field name="biografia">Melhor conhecido como Lorde Byron (1788-1824), foi um destacado poeta britânico e uma das figuras mais influentes do Romantismo, célebre por suas obras-primas, como Peregrinação de Child Harold e Don Juan </field>
+    </row>
+    <row>
+        <field name="autor">Luís Fernando Veríssimo</field>
+        <field name="imagem">verissimo.jpg</field>
+        <field name="biografia">Luis Fernando Verissimo (Porto Alegre, 1936) é um escritor brasileiro. Mais conhecido por suas crônicas e textos de humor, mais precisamente de sátiras de costumes, publicados diariamente em vários jornais brasileiros</field>
+    </row>
+    <row>
+        <field name="autor">Confúcio</field>
+        <field name="imagem">confucio.jpg</field>
+        <field name="biografia">Foi a figura histórica mais conhecida na China como mestre, filósofo e teórico político. Sua doutrina, o confucionismo, teve forte influência não apenas sobre a China mas também sobre toda a Ásia oriental.</field>
+    </row>
+    <row>
+        <field name="autor">Paulo Freire</field>
+        <field name="imagem">pfreire.jpg</field>
+        <field name="biografia">Foi um educador e filósofo brasileiro (1921-1997). Destacou-se por seu trabalho na área da educação popular, voltada tanto para a escolarização como para a formação da consciência política. Autor de “Pedagogia do Oprimido”. É considerado um dos pensadores mais notáveis na história da Pedagogia mundial</field>
+    </row>
+    <row>
+        <field name="autor">Peter Senge</field>
+        <field name="imagem">senge.jpg</field>
+        <field name="biografia">Autor (1947) renomado do livro A Quinta Disciplina. Formou-se em Engenharia pela Stanford University e obteve mestrado em Modelos de Sistema Sociais e o Ph.D. em Management pelo MIT.
+
+        </field>
+    </row>
+    <row>
+        <field name="autor">Hendrie Weisinger</field>
+        <field name="imagem">hendrie.jpg</field>
+        <field name="biografia">Autor do livro: Inteligência Emocional no Trabalho</field>
+    </row>
+    <row>
+        <field name="autor">George Evans</field>
+        <field name="imagem">evans.jpg</field>
+        <field name="biografia">Explorador inglês (1780-1852) emigrou para Australia em 1802.
+
+
+
+        </field>
+    </row>
+    <row>
+        <field name="autor">Tim Connor</field>
+        <field name="imagem">connor.jpg</field>
+        <field name="biografia">Tim Connor presidente da Connor Resource Group e autor de &quot;Desafios Gerenciais - 81 Maneiras para Você Ser Mais Eficaz no Trabalho&quot;</field>
+    </row>
+    <row>
+        <field name="autor">Abraham Lincoln</field>
+        <field name="imagem">lincoln.jpg</field>
+        <field name="biografia">Abraham Lincoln foi um político estadunidense, 16° presidente dos Estados Unidos de março de 1861 até seu assassinato em abril de 1865.</field>
+    </row>
+    <row>
+        <field name="autor">Martin Luther King</field>
+        <field name="imagem">martin.jpg</field>
+        <field name="biografia">Martin Luther King (1929 — 1968) foi um pastor protestante e ativista político estadunidense. Tornou-se um dos mais importantes líderes do movimento dos direitos civis dos negros nos Estados Unidos, e no mundo, com uma campanha de não violência e de amor ao próximo. Ele foi a pessoa mais jovem a receber o Prémio Nobel da Paz em 1964, pouco antes de seu assassinato. Seu discurso mais famoso e lembrado é &quot;Eu Tenho Um Sonho&quot;.</field>
+    </row>
+    <row>
+        <field name="autor">F.W. Sanderson</field>
+        <field name="imagem">sanderson.jpg</field>
+        <field name="biografia">Frederick William Sanderson (1857-1922) era um educador famoso da Escola de Oundle de 1892 até a época de sua morte em 1922 na Inglaterra.</field>
+    </row>
+    <row>
+        <field name="autor">Peter Marshall</field>
+        <field name="imagem">peterm.jpg</field>
+        <field name="biografia">Peter Marshall (1902 - 1949), pastor presbiteriano e líder religioso estadunidense.</field>
+    </row>
+    <row>
+        <field name="autor">James Hunter</field>
+        <field name="imagem">hunter.jpg</field>
+        <field name="biografia">O livro O Monge e o Executivo foi scrito por James C. Hunter sobre a essência da liderança, algumas vezes pelo autor reportada como liderança servidora — uma concepção de liderança que se tem popularizado recentemente em empresas e organizações</field>
+    </row>
+    <row>
+        <field name="autor">Mário Quintana</field>
+        <field name="imagem">quintana.jpg</field>
+        <field name="biografia">Mário Quintana nasceu em Alegrete/RS em 1906 e faleceu em 1994. Foi um poeta, tradutor e jornalista brasileiro.
+
+
+
+        </field>
+    </row>
+    <row>
+        <field name="autor">Bertrand Russel</field>
+        <field name="imagem">russel.jpg</field>
+        <field name="biografia">Bertrand Russell (1872-1970) foi um dos mais influentes matemáticos, filósofos e lógicos que viveram no século XX. Político liberal, activista e um popularizador da filosofia, Russell foi respeitado por inúmeras pessoas como uma espécie de profeta da vida racional e da criatividade.</field>
+    </row>
+    <row>
+        <field name="autor">Leonardo da Vinci</field>
+        <field name="imagem">leonardo.jpg</field>
+        <field name="biografia">Uma das figuras mais importantes do Alto Renascimento, que se destacou como cientista, matemático, engenheiro, inventor, anatomista, pintor, escultor, arquiteto, botânico, poeta e músico</field>
+    </row>
+    <row>
+        <field name="autor">Platão</field>
+        <field name="imagem">platao.jpg</field>
+        <field name="biografia">Filósofo e matemático do período clássico da Grécia Antiga, autor de diversos diálogos filosóficos e fundador da Academia em Atenas, a primeira instituição de educação superior do mundo ocidental</field>
+    </row>
+    <row>
+        <field name="autor">Socrates</field>
+        <field name="imagem">socrates.jpg</field>
+        <field name="biografia">Sócrates foi um filósofo ateniense, e um dos mais importantes ícones da tradição filosófica ocidental. Foi o professor de Platão, um dos filósofos mais influentes de todos os tempos</field>
+    </row>
+    <row>
+        <field name="autor">Kenneth Blanchard</field>
+        <field name="imagem">kenneth.jpg</field>
+        <field name="biografia">Autor americano e especialista em gestão. Seu livro, O gerente minuto, (com o co-autor Spencer Johnson) vendeu mais de 13 milhões de cópias e foi traduzido pra 37 idiomas</field>
+    </row>
+    <row>
+        <field name="autor">Madre Teresa de Calcutá</field>
+        <field name="imagem">calcuta.jpg</field>
+        <field name="biografia">Madre Teresa de Calcutá foi uma missionária católica de etnia albanesa naturalizada indiana, beatificada pela Igreja Católica em 2003</field>
+    </row>
+    <row>
+        <field name="autor">Auguste Rodin</field>
+        <field name="imagem">rodin.jpg</field>
+        <field name="biografia">Auguste Rodin (1840 — 1917) foi um escultor francês.Rodin conquistou fama em vida, e suas obras chegaram a ser as mais apreciadas no mercado de arte europeu e americano. Hoje em dia encontram-se nos museus mais importantes do mundo.
+
+
+
+        </field>
+    </row>
+    <row>
+        <field name="autor">Desmond Tutu</field>
+        <field name="imagem">tutu.jpg</field>
+        <field name="biografia">Arcebispo da Igreja Anglicana consagrado com o Prêmio Nobel da Paz por sua luta contra o Apartheid em seu país natal. Desmond é o primeiro negro a ocupar o cargo de Arcebispo da Cidade do Cabo, sendo também o Primaz da Igreja Anglicana da África Austral entre 1986 e 1996.</field>
+    </row>
+    <row>
+        <field name="autor">Arnold Glasgow</field>
+        <field name="imagem">arnold.jpg</field>
+        <field name="biografia">Jornalista, contribuidor regular da seção de humor do Readers Digest.</field>
+    </row>
+    <row>
+        <field name="autor">Rumi</field>
+        <field name="imagem">rumi.jpg</field>
+        <field name="biografia">Poeta, jurista e teólogo sufi persa do século XIII</field>
+    </row>
+    <row>
+        <field name="autor">Winston Churchill</field>
+        <field name="imagem">churchill.jpg</field>
+        <field name="biografia">Político conservador e estadista britânico, famoso principalmente por sua atuação como primeiro-ministro do Reino Unido durante a Segunda Guerra Mundial</field>
+    </row>
+    <row>
+        <field name="autor">Oscar Wilde</field>
+        <field name="imagem">oscar.jpg</field>
+        <field name="biografia">Escritor e dramaturgo irlandês (1854-1900)</field>
+    </row>
+    <row>
+        <field name="autor">Bruce Tulgan</field>
+        <field name="imagem">tulgan.jpg</field>
+        <field name="biografia">Bruce Tulgan (1967) é um consultor de líderes empresariais e fundador da empresa RainmakerThinking, Inc. Autor do livro &quot;Não tenha medo de ser chefe&quot;, ed. Sextante.</field>
+    </row>
+    <row>
+        <field name="autor">William Shakespeare</field>
+        <field name="imagem">shakes.jpg</field>
+        <field name="biografia">Poeta e dramaturgo inglês (1564-1616), tido como o maior escritor do idioma inglês e o mais influente dramaturgo do mundo</field>
+    </row>
+    <row>
+        <field name="autor">Teddy Roosevelt</field>
+        <field name="imagem">teddy.jpg</field>
+        <field name="biografia">Theodore Roosevelt (Nova Iorque, 27 de outubro de 1858 — Nova Iorque, 6 de janeiro de 1919) foi um estadista norte-americano, presidente dos Estados Unidos, de 1901 a 1909. Roosevelt assumiu a presidência após a morte do então titular, William McKinley, sendo o mais jovem presidente dos Estados Unidos</field>
+    </row>
+    <row>
+        <field name="autor">John Maxwell</field>
+        <field name="imagem">jmaxwell.jpg</field>
+        <field name="biografia">John Calvin Maxwell (1947) é um autor cristão evangélico, conferencista e pastor que escreveu mais de 60 livros, centrado principalmente em liderança, incluindo &quot;As 21 irrefutáveis leis da liderança&quot; e &quot;As 21 indispensáveis qualidades de um lider&quot;. Seus livros já venderam mais de dezenove milhões de cópias, com alguns na lista do New York Times Best Seller, traduzidos em mais de 50 idiomas</field>
+    </row>
+    <row>
+        <field name="autor">Warren Buffet</field>
+        <field name="imagem">buffet.jpg</field>
+        <field name="biografia">Investidor e filantropo americano. É o principal acionista, presidente do conselho e diretor executivo da Berkshire Hathaway. Constantemente citado na lista das pessoas mais ricas do mundo, ocupou o primeiro lugar em 2008.</field>
+    </row>
+    <row>
+        <field name="autor">Juscelino Kubitschek</field>
+        <field name="imagem">juscelin.jpg</field>
+        <field name="biografia">Conhecido como JK, foi prefeito de Belo Horizonte (1940-1945), governador de Minas Gerais (1951-1955), e presidente do Brasil entre 1956 e 1961.</field>
+    </row>
+    <row>
+        <field name="autor">Baltazar Gracián</field>
+        <field name="imagem">baltazar.jpg</field>
+        <field name="biografia">Baltasar Gracián (1601 — 1658) foi um importante prosador espanhol do século XVII ao lado de autores como Francisco de Quevedo e Miguel de Cervantes, além de teólogo e filósofo. É conhecido como líder do conceptismo, estilo literário caracterizado pela sobriedade e a concisão.
+
+        </field>
+    </row>
+    <row>
+        <field name="autor">Clarice Linspector</field>
+        <field name="imagem">clarice.jpg</field>
+        <field name="biografia">Escritora (1920-1977) e jornalista nascida na Ucrânia e naturalizada brasileira. </field>
+    </row>
+    <row>
+        <field name="autor">Mahatma Gandhi</field>
+        <field name="imagem">gandhi.jpg</field>
+        <field name="biografia">Idealizador (1868-1948) e fundador do moderno Estado indiano e o maior defensor do Satyagraha (princípio da não-agressão, forma não-violenta de protesto) como um meio de revolução.</field>
+    </row>
+    <row>
+        <field name="autor">Sêneca</field>
+        <field name="imagem">seneca.jpg</field>
+        <field name="biografia">foi um dos mais célebres advogados, escritores e intelectuais do Império Romano. Conhecido também como Séneca o Moço, o Filósofo, ou ainda, o Jovem, sua obra literária e filosófica, tida como modelo do pensador estoico durante o Renascimento, inspirou o desenvolvimento da tragédia na dramaturgia europeia renascentista.</field>
+    </row>
+    <row>
+        <field name="autor">Edwin Land</field>
+        <field name="imagem">land.jpg</field>
+        <field name="biografia">Cientista e inventor norte americano  (1909 – 1991) fundador da Polaroid Corporation e da fotografia instantânea</field>
+    </row>
+    <row>
+        <field name="autor">Rousseau</field>
+        <field name="imagem">rousseau.jpg</field>
+        <field name="biografia">Jean-Jacques Rousseau  (Genebra, 28 de Junho de 1712 — 1778) foi um importante filósofo, teórico político, escritor e compositor autodidata suíço. É considerado um dos principais filósofos do iluminismo e um precursor do romantismo</field>
+    </row>
+    <row>
+        <field name="autor">Pablo Neruda</field>
+        <field name="imagem">neruda.jpg</field>
+        <field name="biografia">Pablo Neruda (1904 — 1973) foi um poeta chileno, bem como um dos mais importantes poetas da língua castelhana do século XX e cônsul do Chile na Espanha (1934 — 1938) e no México.</field>
+    </row>
+    <row>
+        <field name="autor">Henri Amiel</field>
+        <field name="imagem">amiel.jpg</field>
+        <field name="biografia">Henri-Frédéric Amiel (Genebra, 1821 - Genebra, 1881) foi um filósofo, poeta e crítico da Suíça.</field>
+    </row>
+    <row>
+        <field name="autor">James Kouzes</field>
+        <field name="imagem">kouzes.jpg</field>
+        <field name="biografia">Professor de liderança na Leavy School of Business, na Universidade de Santa Clara.</field>
+    </row>
+    <row>
+        <field name="autor">Rick Pitino</field>
+        <field name="imagem">pitino.jpg</field>
+        <field name="biografia">Rick Pitino (nascido 1952) é um treinador de basquetebol estadunidense. Desde 2001 é treinador da Universidade de Lousiville . Ele também serviu como técnico do Boston Celtics e New York Knicks, clubes da National Basketball Association (NBA)</field>
+    </row>
+    <row>
+        <field name="autor">John Lennon</field>
+        <field name="imagem">lennon.jpg</field>
+        <field name="biografia">John Lennon (Liverpool, 9 de outubro de 1940 — Nova Iorque, 8 de dezembro de 1980) foi um músico, guitarrista, cantor, compositor, escritor e ativista britânico. John Lennon ganhou notoriedade mundial como um dos fundadores do grupo de rock britânico The Beatles.
+
+        </field>
+    </row>
+    <row>
+        <field name="autor">Dennis Weaver</field>
+        <field name="imagem">weaver.jpg</field>
+        <field name="biografia">William Dennis Weaver (1924 — 2006) foi um ator dos Estados Unidos, ganhador do prêmio Emmy e conhecido por seus trabalhos na televisão. Ficou famoso por participar do filme Duel de Steven Spielberg em 1971.</field>
+    </row>
+    <row>
+        <field name="autor">Sun Tsu</field>
+        <field name="imagem">tsu.jpg</field>
+        <field name="biografia">Sun Tzu (544 a.C. - 496 a.C.) foi um general, estrategista e filósofo chinês. Sun Tzu é mais conhecido por sua obra A Arte da Guerra, composta por 13 capítulos de estratégias militares.</field>
+    </row>
+    <row>
+        <field name="autor">Anais Nin</field>
+        <field name="imagem">nin.jpg</field>
+        <field name="biografia">Anais Nin (1903-1977) tornou-se famosa pela publicação de diários pessoais, que medem um período de quarenta anos, começando quando tinha doze anos. Foi amante de Henry Miller e só permitiu que seus diários fossem publicados após a morte de seu marido Hugh Guiler. Seus romances e narrativas, impregnados de conteúdo erótico foram profundamente influenciados pela obra de James Joyce e a psicanálise.
+
+        </field>
+    </row>
+    <row>
+        <field name="autor">Bob Marley</field>
+        <field name="imagem">marley.jpg</field>
+        <field name="biografia">Bob Marley (1945 — 1981), foi um cantor, guitarrista e compositor jamaicano, o mais conhecido músico de reggae de todos os tempos, famoso por popularizar o gênero.</field>
+    </row>
+    <row>
+        <field name="autor">Peter Drucker</field>
+        <field name="imagem">drucker.jpg</field>
+        <field name="biografia">Peter Drucker (1909 - 2005) foi um escritor, professor e consultor administrativo de origem austríaca, considerado como o pai da administração moderna, sendo o mais reconhecido dos pensadores do fenómeno dos efeitos da Globalização na economia em geral e em particular nas organizações </field>
+    </row>
+    <row>
+        <field name="autor">Louis Pasteur</field>
+        <field name="imagem">pasteur.jpg</field>
+        <field name="biografia">(1822-1895) Pasteur é lembrado por suas notáveis descobertas das causas e prevenções de doenças. Entre seus feitos mais notáveis pode-se citar a redução da mortalidade por febre puerperal, e a criação da primeira vacina contra a raiva. Seus experimentos deram fundamento para a teoria microbiológica da doença. Foi mais conhecido do público em geral por inventar um método para impedir que leite e vinho causem doenças, um processo que veio a ser chamado pasteurização</field>
+    </row>
+    <row>
+        <field name="autor">Tolstói</field>
+        <field name="imagem">tolstoi.jpg</field>
+        <field name="biografia">Tolstói (1828 — 1910) foi um escritor russo. Além de sua fama como escritor, Tolstoi ficou famoso por tornar-se, na velhice, um pacifista, cujos textos e ideias contrastavam com as igrejas e governos, pregando uma vida simples e em proximidade à natureza.</field>
+    </row>
+    <row>
+        <field name="autor">Bill Hewlett</field>
+        <field name="imagem">hewlett.jpg</field>
+        <field name="biografia">Fundou, juntamente com David Packard, a Hewlett-Packard Company (HP) . Desde os três anos de idade morou em São Francisco. Estudou na Universidade de Stanford. Formou-se em 1934 e graduou-se em engenharia elétrica em 1939. Na universidade fez parte da Fraternidade Kappa Sigma.</field>
+    </row>
+    <row>
+        <field name="autor">Albert Schweitzer</field>
+        <field name="imagem">schweitzer.jpg</field>
+        <field name="biografia">Albert Schweitzer (1875 — 1965) foi um teólogo, músico, filósofo e médico alemão, nascido na Alsácia, então parte do Império Alemão (atualmente, uma região administrativa francesa).Foi laureado em 1952 com o Prêmio Nobel da Paz, como humilde homenagem a um “grande homem”.</field>
+    </row>
+    <row>
+        <field name="autor">James Faust</field>
+        <field name="imagem">faust.jpg</field>
+        <field name="biografia">James Esdras Faust (Delta, Utah, EUA-31 de julho de 1920; Salt Lake City, Utah, EUA-10 de agosto de 2007) foi um líder religioso mórmon, serviu nas forças armadas americanas da Segunda Guerra, advogado e político de Utah. Recebeu a cidadania nacional brasileira em 1998.</field>
+    </row>
+    <row>
+        <field name="autor">Kent Keith</field>
+        <field name="imagem">kkeith.jpg</field>
+        <field name="biografia">Autor de Paradoxical Commandments escrito em 1968. </field>
+    </row>
+    <row>
+        <field name="autor">Antoine de Saint-Exupéry</field>
+        <field name="imagem">exupery.jpg</field>
+        <field name="biografia">piloto de avião e escritor cuja obra destaca-se Le Petit Prince (O Pequeno Príncipe, no Brasil ou O Principezinho, em Portugal) de 1943, livro de grande sucesso de Saint-Exupéry.</field>
+    </row>
+    <row>
+        <field name="autor">Emerson</field>
+        <field name="imagem">emerson.jpg</field>
+        <field name="biografia">Ralph Waldo Emerson (1803 - 1882, Concord, Massachusetts) foi um famoso escritor, filósofo e poeta estado-unidense.</field>
+    </row>
+    <row>
+        <field name="autor">Idalberto Chiavenato</field>
+        <field name="imagem">idalberto.jpg</field>
+        <field name="biografia">Idalberto Chiavenato nascido em 1936 em Viradouro, interior do estado de São Paulo, é autor brasileiro na área de administração de empresas e de recursos humanos tendo seus livros utilizados por administradores no Brasil, países da América Latina, Portugal, Espanha e países africanos de língua portuguesa. Atualmente, o professor Chiavenato atua como conselheiro no Conselho Regional de Administração do Estado de São Paulo (CRA-SP) e presidente do Instituto Chiavenato de Educação. É um dos autores nacionais mais conhecidos e respeitados na área de Administração de Empresas e Recursos Humanos.</field>
+    </row>
+    <row>
+        <field name="autor">Galileu Galilei</field>
+        <field name="imagem">galileu.jpg</field>
+        <field name="biografia">Galileu Galilei (1564 — 1642 ) foi um físico, matemático, astrônomo e filósofo italiano. Galileu Galilei foi personalidade fundamental na revolução científica. </field>
+    </row>
+    <row>
+        <field name="autor">Carlos Castaneda</field>
+        <field name="imagem">castaneda.jpg</field>
+        <field name="biografia">Carlos Castaneda ou Carlos Aranha Castaneda (1925 — 1998) foi um escritor e antropólogo formado pela Universidade da Califórnia em Los Angeles (UCLA); notabilizou-se após a publicação, em 1968, de sua dissertação de mestrado intitulada The Teachings of Don Juan - a Yaqui way of knowledge, lançado no Brasil como A Erva do Diabo.</field>
+    </row>
+    <row>
+        <field name="autor">Lao Tsé</field>
+        <field name="imagem">laotse.jpg</field>
+        <field name="biografia">Lao-Tsé é considera um dos filósofos mais relevantes da china. A tradição chinesa estabelece que ele viveu no século VI a. C.</field>
+    </row>
+    <row>
+        <field name="autor">Osho</field>
+        <field name="imagem">osho.jpg</field>
+        <field name="biografia">Líder espiritualista e escritor fundador no movimento Rajneesh nos Estados Unidos</field>
+    </row>
+    <row>
+        <field name="autor">Frederick Herzberg</field>
+        <field name="imagem">fred.jpg</field>
+        <field name="biografia">Frederick Irving Herzberg (1923-2000) foi o autor da Teoria dos dois fatores que aborda a situação de motivação e satisfação das pessoas.</field>
+    </row>
+    <row>
+        <field name="autor">Karajan</field>
+        <field name="imagem">karajan.jpg</field>
+        <field name="biografia">Heribert Ritter von Karajan (Salzburgo, 5 de abril de 1908 — Anif, 16 de julho de 1989), mais conhecido por Herbert von Karajan, foi um maestro da Áustria, e um dos maestros de maior destaque do período pós-guerra. Ele passou 27 anos de sua vida à frente da Orquestra Filarmônica de Berlim.</field>
+    </row>
+    <row>
+        <field name="autor">Carlos Drummond de Andrade</field>
+        <field name="imagem">drummond.jpg</field>
+        <field name="biografia">Carlos Drummond de Andrade (Itabira, 1902 — Rio de Janeiro, 1987) foi um poeta, contista e cronista brasileiro, considerado por muitos o mais influente poeta brasileiro do século XX</field>
+    </row>
+    <row>
+        <field name="autor">William Ward</field>
+        <field name="imagem">ward.jpg</field>
+        <field name="biografia">William Arthur Ward (1921-1994), administrador, escritor, pastor e professor estadunidense.</field>
+    </row>
+    <row>
+        <field name="autor">Thomas Fuller</field>
+        <field name="imagem">fuller.jpg</field>
+        <field name="biografia">Thomas Fuller (1608 — 16 de agosto de 1661) foi um religioso e historiador britânico.</field>
+    </row>
+    <row>
+        <field name="autor">John Keynes</field>
+        <field name="imagem">keynes.jpg</field>
+        <field name="biografia">John Maynard Keynes (1883 — 1946), foi um economista britânico cujos ideais serviram de influência para a macroeconomia moderna, tanto na teoria quanto na prática. Ele defendeu uma política econômica de Estado intervencionista, através da qual os governos usariam medidas fiscais e monetárias para mitigar os efeitos adversos dos ciclos econômicos - recessão, depressão e booms. Suas ideias serviram de base para a escola de pensamento conhecida como economia keynesiana.</field>
+    </row>
+    <row>
+        <field name="autor">Allan Percy</field>
+        <field name="imagem">percy.jpg</field>
+        <field name="biografia">Allan Percy é especialista em coaching e em literatura de autoajuda e desenvolvimento pessoal. Autor de Nietzsche para estressados e Oscar Wilde para inquietos, presta consultoria à várias editoras espanholas e viaja pelo mundo em busca de inspiração para seus livros</field>
+    </row>
+    <row>
+        <field name="autor">Augusto Cury</field>
+        <field name="imagem">cury.jpg</field>
+        <field name="biografia">Augusto Jorge Cury (1958) é um médico, psiquiatra, psicoterapeuta e escritor.
+
+
+
+            Seus livros já venderam mais de 16 milhões de exemplares somente no Brasil, tendo sido publicados em mais de 60 países. Foi considerado pelo jornal Folha de São Paulo o autor brasileiro mais lido da década
+
+        </field>
+    </row>
+    <row>
+        <field name="autor">William Jennings</field>
+        <field name="imagem">wjenn.jpg</field>
+        <field name="biografia">William Jennings Bryan (1860 – 1925), advogado e político dos Estados Unidos. Foi Secretário de Estado dos Estados Unidos da América.</field>
+    </row>
+    <row>
+        <field name="autor">Samuel Johnson</field>
+        <field name="imagem">sjohn.jpg</field>
+        <field name="biografia">Samuel Johnson (1709 - 1784) foi um escritor e pensador inglês</field>
+    </row>
+    <row>
+        <field name="autor">Marcel Proust</field>
+        <field name="imagem">proust.jpg</field>
+        <field name="biografia">Escritor francês, mais conhecido pela sua obra À la recherche du temps perdu (Em Busca do Tempo Perdido), que foi publicada em sete partes entre 1913 e 1927.</field>
+    </row>
+    <row>
+        <field name="autor">Dee Hocks</field>
+        <field name="imagem">dee.jpg</field>
+        <field name="biografia">Presidente da Visa International até 1984. </field>
+    </row>
+    <row>
+        <field name="autor">John Wooden</field>
+        <field name="imagem">wooden.jpg</field>
+        <field name="biografia">Jogador e treinador de basquete americado. É considerado o melhor treinador da história do NCAA, graças aos 10 campeonatos vitoriosos conseguidos em toda sua vida com a equipe UCLA Bruins, entre 1964 e </field>
+    </row>
+    <row>
+        <field name="autor">Robert Bolton</field>
+        <field name="imagem">bolton.jpg</field>
+        <field name="biografia">Robert Bolton (1572 – 1631) foi um clérigo inglês e acadêmico.</field>
+    </row>
+    <row>
+        <field name="autor">Jesse Giglio</field>
+        <field name="imagem">jesse.jpg</field>
+        <field name="biografia">Missionário norte americano</field>
+    </row>
+    <row>
+        <field name="autor">Walter Lippman</field>
+        <field name="imagem">wlipp.jpg</field>
+        <field name="biografia">Walter Lippmann (1889 - 1974) foi escritor, jornalista e comentarista político estadunidense.</field>
+    </row>
+    <row>
+        <field name="autor">Arthur Graf</field>
+        <field name="imagem">graf.jpg</field>
+        <field name="biografia">Arthur Graf Berchtold (1843-1902), foi membro do Parlamento Húngaro</field>
+    </row>
+    <row>
+        <field name="autor">Sidney Howard</field>
+        <field name="imagem">sidney.jpg</field>
+        <field name="biografia">Escritor norte-americano (1891 – 1939) ganhador do Prêmio Pulitzer e autor de - E o vento levou.</field>
+    </row>
+    <row>
+        <field name="autor">Newt Gingrich</field>
+        <field name="imagem">newt.jpg</field>
+        <field name="biografia">Newt Gingrich é um professor universitário, historiador, escritor e político americano. Filiado ao Partido Republicano.</field>
+    </row>
+    <row>
+        <field name="autor">Joseph Badaracco</field>
+        <field name="imagem">badaracco.jpg</field>
+        <field name="biografia">Professor de Ética nos negócios na Harvard Business School</field>
+    </row>
+    <row>
+        <field name="autor">Immanuel Kant</field>
+        <field name="imagem">kant.jpg</field>
+        <field name="biografia">Kant (1724-1804) um filósofo prussiano, geralmente considerado como o último grande filósofo dos princípios da era moderna.</field>
+    </row>
+    <row>
+        <field name="autor">Marilyn Ferguson</field>
+        <field name="imagem">ferguson.jpg</field>
+        <field name="biografia">Escritora estadunidense (1938-2008), mais conhecida por sua obra A Conspiração Aquariana, lançada em 1980.</field>
+    </row>
+    <row>
+        <field name="autor">Marcio Kuhne</field>
+        <field name="imagem">kuhne.jpg</field>
+        <field name="biografia">Márcio Kühne é um renomado palestrante do Brasil. Suas palestras abordam temas da gestão organizacional e do comportamento humano, presentes também em seus livros Em Busca da Autoconfiança e O Futuro Não é o Que Se Teme, O Futuro é o Que se Ousa.</field>
+    </row>
+    <row>
+        <field name="autor">Anne Bruce</field>
+        <field name="imagem">anne.jpg</field>
+        <field name="biografia">Palestrante, especializada em recursos humanos, autora de: Como motivar sua equipe.</field>
+    </row>
+    <row>
+        <field name="autor">Chico Buarque</field>
+        <field name="imagem">buarque.jpg</field>
+        <field name="biografia">Francisco Buarque de Hollanda, mais conhecido por Chico Buarque (Rio de Janeiro, 19 de junho de 1944), é um músico, dramaturgo e escritor brasileiro. É conhecido por ser um dos maiores nomes da música popular brasileira (MPB). Sua discografia conta com aproximadamente oitenta discos, entre eles discos-solo, em parceria com outros músicos e compactos.</field>
+    </row>
+    <row>
+        <field name="autor">Bruce Lee</field>
+        <field name="imagem">blee.jpg</field>
+        <field name="biografia">Bruce Lee (1940 – 1973) foi um artista marcial, instrutor de artes marciais, ator, roteirista, diretor e produtor cinematográfico</field>
+    </row>
+    <row>
+        <field name="autor">David Ambrose</field>
+        <field name="imagem">ambrose.jpg</field>
+        <field name="biografia">Escritor e novelista britânico nascido em 1943</field>
+    </row>
+    <row>
+        <field name="autor">Alfred Montapert</field>
+        <field name="imagem">alfred.jpg</field>
+        <field name="biografia">Filósofo norte americano nascido em 1906, autor do livro: A suprema filosofia do homem:as leis da vida , escrito em 1970</field>
+    </row>
+    <row>
+        <field name="autor">Pierre Beaumarchais</field>
+        <field name="imagem">pierre.jpg</field>
+        <field name="biografia">Beaumarchais é o criador do personagem Fígaro, presente na trilogia constituída pelas comédias O Barbeiro de Sevilha ou A Precaução Inútil, As Bodas de Fígaro e pelo drama A mãe culpada. Todas as três peças foram transformadas em óperas - por Rossini, Giovanni Paisiello, Mozart e Darius Milhaud.</field>
+    </row>
+    <row>
+        <field name="autor">Jô Soares</field>
+        <field name="imagem">soares.jpg</field>
+        <field name="biografia">Jô Soares nasceu no Rio de Janeiro, 16 de janeiro de 1938, é um humorista, apresentador de televisão, escritor, artista plástico, dramaturgo, diretor teatral, ator e musico brasileiro</field>
+    </row>
+    <row>
+        <field name="autor">Gabriel Garcia Marques</field>
+        <field name="imagem">gabriel.jpg</field>
+        <field name="biografia">Gabriel José García Márquez foi um escritor, jornalista, editor, ativista e político colombiano. Considerado um dos autores mais importantes do século XX, foi um dos escritores mais admirados e traduzidos no mundo, com mais de 40 milhões de livros vendidos em 36 idiomas</field>
+    </row>
+    <row>
+        <field name="autor">Airton Senna</field>
+        <field name="imagem">senna.jpg</field>
+        <field name="biografia">Ayrton Senna da Silva (1960 — 1994) foi um piloto brasileiro de Fórmula 1, três vezes campeão mundial, nos anos de 1988, 1990 e 1991</field>
+    </row>
+    <row>
+        <field name="autor">Jean Paul Sartre</field>
+        <field name="imagem">sartre.jpg</field>
+        <field name="biografia">Filósofo, escritor e crítico francês, conhecido como representante do existencialismo. Acreditava que os intelectuais têm de desempenhar um papel ativo na sociedade. Era um artista militante, e apoiou causas políticas de esquerda com a sua vida e a sua obra.</field>
+    </row>
+    <row>
+        <field name="autor">Machado de Assis</field>
+        <field name="imagem">machado.jpg</field>
+        <field name="biografia">Considerado como o maior nome da literatura nacional. Escreveu em praticamente todos os gêneros literários, sendo poeta, romancista, cronista, dramaturgo, contista, folhetinista, jornalista, e crítico literário</field>
+    </row>
+    <row>
+        <field name="autor">Aristóteles</field>
+        <field name="imagem">aristoteles.jpg</field>
+        <field name="biografia">Aristóteles foi um filósofo grego, aluno de Platão e professor de Alexandre, o Grande. Seus escritos abrangem diversos assuntos, como a física, a metafísica, as leis da poesia e do drama, a música</field>
+    </row>
+    <row>
+        <field name="autor">Khalil Gibran</field>
+        <field name="imagem">gibran.jpg</field>
+        <field name="biografia">Ensaísta, filósofo, prosador, poeta, conferencista e pintor de origem libanesa (1883-1931)</field>
+    </row>
+    <row>
+        <field name="autor">Fernando Pessoa</field>
+        <field name="imagem">pessoa.jpg</field>
+        <field name="biografia">Fernando António Nogueira Pessoa (1888-1935), mais conhecido como Fernando Pessoa, foi um poeta, filósofo e escritor português. </field>
+    </row>
+    <row>
+        <field name="autor">David Niven</field>
+        <field name="imagem">niven.jpg</field>
+        <field name="biografia">David Niven (1910 — 1983), foi um ator britânico nascido na Inglaterra, famoso pelos filmes que realizou nos Estados Unidos da América e na Europa. Nos anos 1960 participou do clássico Os Canhões de Navarone (The Guns of Navarone, 1961). Foi cogitado para interpretar James Bond, papel que acabou ficando para Sean Connery. Depois interpretou o agente secreto no filme Cassino Royale de 1967, com produtores diferentes dos da série de Connery. Estrelou também o primeiro filme da A Pantera Cor-de-Rosa, de 1963.</field>
+    </row>
+    <row>
+        <field name="autor">Samuel Butler</field>
+        <field name="imagem">butller.jpg</field>
+        <field name="biografia">Escritor britânico fortemente influenciado por suas experiências na Nova Zelândia. Suas obras mais conhecidas são Erewhon, uma sátira utópica, e seu romance autobiográfico, editado postumamente, The Way Of All Flesh</field>
+    </row>
+    <row>
+        <field name="autor">Esopo</field>
+        <field name="imagem">esopo.jpg</field>
+        <field name="biografia">Esopo foi um escritor da Grécia Antiga a quem são atribuídas várias fábulas populares. A ele se atribui a paternidade da fábula como gênero literário</field>
+    </row>
+    <row>
+        <field name="autor">Wordsworth</field>
+        <field name="imagem">wordsworth.jpg</field>
+        <field name="biografia">William Wordsworth  (1770-1850) foi o maior poeta romântico inglês que, ao lado de Samuel Taylor Coleridge, ajudou a lançar o romantismo na literatura inglesa com a publicação conjunta, em 1798, das Lyrical Ballads</field>
+    </row>
+    <row>
+        <field name="autor">Glasser</field>
+        <field name="imagem">glasser.jpg</field>
+        <field name="biografia">William Glasser (1925 – 2013) foi um psiquiatra norte americano criador da chamada Terapia da Realidade</field>
+    </row>
+    <row>
+        <field name="autor">Millor Fernandes</field>
+        <field name="imagem">millor.jpg</field>
+        <field name="biografia">Millôr Fernandes (1923-2012), foi um desenhista, humorista, dramaturgo, escritor, tradutor, e jornalista brasileiro</field>
+    </row>
+    <row>
+        <field name="autor">John Kennedy</field>
+        <field name="imagem">kennedy.jpg</field>
+        <field name="biografia">John Fitzgerald Kennedy (1917-1963) foi um político estadunidense que serviu como presidente dos Estados Unidos e é considerado uma das grandes personalidades do século XX</field>
+    </row>
+    <row>
+        <field name="autor">Jack Kemp</field>
+        <field name="imagem">jkemp.jpg</field>
+        <field name="biografia">Jack Kemp Jr. é um político dos Estados Unidos da América e antigo jogador profissional de futebol americano. Foi congressista por Nova Iorque e candidato do Partido Republicano à vice-presidência em 1996</field>
+    </row>
+    <row>
+        <field name="autor">Leoni</field>
+        <field name="imagem">leoni.jpg</field>
+        <field name="biografia">Raul de Leoni (1895-1926) foi um autor altamente independente de seu tempo, sem filiações a movimentos literários. Amigo de Olavo Bilac, sua poesia continha muita influência parnasiana, mas também possuía características simbolistas e uma bela simplicidade misturada a preocupações filosóficas. Raul de Leoni pode ser, também, tido como pré-modernista, mas o seu Luz Mediterrânea tende ao Simbolismo.</field>
+    </row>
+    <row>
+        <field name="autor">John Baldoni</field>
+        <field name="imagem">baldoni.jpg</field>
+        <field name="biografia">Autor de livros sobre lideranças, formado pela Georgetown University é consultor e autor de artigos na  Harvard Business Review</field>
+    </row>
+    <row>
+        <field name="autor">Françoise Giroud</field>
+        <field name="imagem">giroud.jpg</field>
+        <field name="biografia">Nascida Lea France Gourdji, foi uma jornalista, escritora e política francesa</field>
+    </row>
+    <row>
+        <field name="autor">Thomas Edison</field>
+        <field name="imagem">edison.jpg</field>
+        <field name="biografia">Thomas Alva Edison (1847 — 1931) foi um empresário dos Estados Unidos que patenteou e financiou o desenvolvimento de muitos dispositivos importantes de grande interesse industrial. O Feiticeiro de Menlo Park (The Wizard of Menlo Park), como era conhecido, foi um dos primeiros a aplicar os princípios da produção maciça ao processo da invenção</field>
+    </row>
+    <row>
+        <field name="autor">Charles Chaplin</field>
+        <field name="imagem">chaplin.jpg</field>
+        <field name="biografia">Charlie Chaplin (1889 — 1977), foi um ator, diretor, produtor, humorista, empresário, escritor, comediante, dançarino, roteirista e músico britânico. Chaplin foi um dos atores mais famosos da era do cinema mudo, notabilizado pelo uso de mímica e da comédia pastelão. </field>
+    </row>
+    <row>
+        <field name="autor">Francis Bacon</field>
+        <field name="imagem">bacon.jpg</field>
+        <field name="biografia">Político, filósofo e ensaísta inglês (1561 — 1626), considerado fundador da ciência moderna</field>
+    </row>
+    <row>
+        <field name="autor">E. M. Kelly</field>
+        <field name="imagem">kelly.jpg</field>
+        <field name="biografia">George Edward Maurice Kelly (1878 - 1911) foi piloto pioneiro dos Estados Unidos</field>
+    </row>
+    <row>
+        <field name="autor">Franz Kafka</field>
+        <field name="imagem">kafka.jpg</field>
+        <field name="biografia">Franz Kafka (1883 — 1924) foi um escritor tcheco, autor de romances e contos, considerado pelos críticos como um dos escritores mais influentes do século XX. Entre suas obras estão A Metamorfose e O Processo</field>
+    </row>
+    <row>
+        <field name="autor">Herman Hesse</field>
+        <field name="imagem">hesse.jpg</field>
+        <field name="biografia">Hermann Hesse (1877 - 1962) foi um escritor alemão, que em 1923 naturalizou-se suíço. Autor de O Lobo da Estepe (1927), que é também uma crítica contra o militarismo</field>
+    </row>
+    <row>
+        <field name="autor">Richard Williams</field>
+        <field name="imagem">rwilliams.jpg</field>
+        <field name="biografia">Richard Williams (1890 — 1980) é considerado o pai da Força aérea real australiana (RAAF)</field>
+    </row>
+    <row>
+        <field name="autor">Michael Angier</field>
+        <field name="imagem">angier.jpg</field>
+        <field name="biografia">Líder motivacional e diretor da SuccessNet baseada na Florida</field>
+    </row>
+    <row>
+        <field name="autor">Jonas Salk</field>
+        <field name="imagem">salk.jpg</field>
+        <field name="biografia">Médico (1914 – 1995) inventor da vacina contra a poliomielite</field>
+    </row>
+    <row>
+        <field name="autor">Robert J. Collier</field>
+        <field name="imagem">collier.jpg</field>
+        <field name="biografia">Robert Joseph Collier (1876 – 1918) editor da F. Collier &amp; Son. e presidente do Aero Club of America</field>
+    </row>
+    <row>
+        <field name="autor">Robson Rodovalho</field>
+        <field name="imagem">rodovalho.jpg</field>
+        <field name="biografia">Robson Lemos Rodovalho é bispo, físico e ex-deputado federal brasileiro, autor de livros sobre liderança, é fundador, junto com Maria Lúcia Rodovalho, da Comunidade Evangélica Sara Nossa Terra da qual é presidente</field>
+    </row>
+    <row>
+        <field name="autor">Timothy Butler</field>
+        <field name="imagem">butler.jpg</field>
+        <field name="biografia">Líder motivacional, autor de livros sobre liderança, professor na Harvard Business School</field>
+    </row>
+    <row>
+        <field name="autor">Ram Charan</field>
+        <field name="imagem">charan.jpg</field>
+        <field name="biografia">Ram Charan é indo americano, consultor e líder motivacional</field>
+    </row>
+</ROOT>

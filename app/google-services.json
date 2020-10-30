@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "39870774085",
+    "firebase_url": "https://citacoes-8f23f.firebaseio.com",
+    "project_id": "citacoes-8f23f",
+    "storage_bucket": "citacoes-8f23f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39870774085:android:0a45b6e0e6ba1cda",
+        "android_client_info": {
+          "package_name": "meuprimeiroapp.studio.com.frasedodia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39870774085-5g6308q2tborlserjevriei84lbqffh8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "meuprimeiroapp.studio.com.frasedodia",
+            "certificate_hash": "95b1b90622546356acc8b1a2fd93624fbc71fc20"
+          }
+        },
+        {
+          "client_id": "39870774085-upl9veuoal2kgp5li4pd1she9jue84p8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWw__H80t3MBbIZtrCYRMMVylOs70u3qM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39870774085-upl9veuoal2kgp5li4pd1she9jue84p8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
